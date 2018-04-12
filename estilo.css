@@ -1,0 +1,60 @@
+.img-header{
+	background-image: url('images/bg.jpeg');
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center bottom;
+	position: relative;
+	
+}
+.img-1{
+	background-image: url('images/latam_logo.png');	
+	background-repeat: no-repeat;
+	height: 100px;
+	background-size: 200px;
+	margin-top: 50px;
+}
+.nav-style{
+	color: white;
+	padding-top: 50px;
+}
+.nav-style li{
+	float: right;
+	margin-left: 30px;
+	list-style-type: none;
+}
+
+.boton1{
+
+	border-radius: 5px 5px 5px 5px;	
+	height: 50px;
+	width: 200px;
+	background-color: #6699ff;
+	color: white;
+	border: 0;
+	font-size: 20px;
+}
+.boton2{
+	border-radius: 5px 5px 5px 5px;	
+	height: 50px;
+	width: 100px;
+	background-color: #669933;
+	color: white;
+	border: 0;
+	font-size: 20px;
+}
+.boton3{
+	background-color: blue;
+	border: 0;
+	height: 50px;
+	width: 120px;
+	color: white;
+	border-radius: 5px 5px 5px 5px;
+	font-size: 20px;
+}
+.fuente-blanca{
+	color: white;
+}
+.letra-grande h1{
+	font-size: 50px;
+}
